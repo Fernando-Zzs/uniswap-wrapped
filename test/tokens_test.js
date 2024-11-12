@@ -25,9 +25,9 @@ contract("Token Tests", accounts => {
     it("应该给部署者正确数量的代币", async () => {
         const balanceA = await tokenA.balanceOf(owner);
         const balanceB = await tokenB.balanceOf(owner);
-        
+
         const expectedBalance = web3.utils.toBN('1000000000000000000000000'); // 100万代币
-        
+
         assert.equal(balanceA.toString(), expectedBalance.toString(), "Token A 余额错误");
         assert.equal(balanceB.toString(), expectedBalance.toString(), "Token B 余额错误");
     });
