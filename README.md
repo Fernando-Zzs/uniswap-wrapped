@@ -112,17 +112,22 @@ truffle migrate --network sepolia
 
 该项目采用 MIT 许可证 - 查看 LICENSE 文件了解详情
 ### 💝 赞助支持
+
 如果您觉得这个项目对您有帮助，欢迎赞助支持！
-ETH: 0x7866111d9A50b9bDe51dA89ff56d04d92e1b6CAF
+- ETH: 0x7866111d9A50b9bDe51dA89ff56d04d92e1b6CAF
 
 ### 📮 联系方式
-作者：Fernando-Zzs
-Email：fernando_zzs@foxmail.com
-Twitter：@zezesensen
+
+- 作者：Fernando-Zzs
+- Email：fernando_zzs@foxmail.com
+- Twitter：@zezesensen
+
 ### 🙏 致谢
-OpenZeppelin - 安全智能合约库
-Uniswap - 原始设计灵感
-Truffle Suite - 开发框架
-以太坊基金会 - 底层技术支持
+
+- OpenZeppelin - 安全智能合约库
+- Uniswap - 原始设计灵感
+- Truffle Suite - 开发框架
+- 以太坊基金会 - 底层技术支持
+
 ---
 ⭐️ 如果这个项目对您有帮助，请给它一个星标！
